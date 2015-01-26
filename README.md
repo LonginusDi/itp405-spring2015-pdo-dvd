@@ -1,1 +1,3 @@
-# itp405-spring2015-pdo-dvd
+# DVD Search with PDO
+by Dizhen Lu
+for ITP - 405
