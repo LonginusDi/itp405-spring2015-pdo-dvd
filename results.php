@@ -12,6 +12,7 @@ $dbname = 'dvd';
 $user = 'student';
 $password = 'ttrojan';
 
+echo "<h3>You searched for $title:</h3>";
 
 $pdo = new PDO("mysql:host=$host;dbname=$dbname", $user, $password);
 
